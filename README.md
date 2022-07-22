@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ifedolapoomoniyi
 - 👀 I’m interested in Javascript, react and mighty css
 - 🌱 I’m currently finishing up freecodecamp's javascript course, I'm on the last lap
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything. As long as it's frontend.
 - 📫 How to reach me... Email is probably best. Here ifedolapo0001@gmail.com
 
 <!---
