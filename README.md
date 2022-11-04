@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ifedolapoomoniyi
-- 👨‍🎓 I am a student of ALX Africa, here to change the world one line of code at a time, corny I know😂, but then my family is my world
-- 👀 I’m interested in Javascript, react, now C and real terminal work
-- 🌱 I’ve currently put a pause on my battle with react. Now we battle with C and SSH
-- 💞️ I’m looking to collaborate on anything. Send an email, might be real fun for both of us
-- 📫 How to reach me... Email is probably best. Here ifedolapo0001@gmail.com
+- 👨‍🎓 I am a medical student with great passion for tech. You could say i'm currently learning how to fix human bugs😅
+- 👀 I’ve gone down the popular html, css and js route but it left me feeling limited, dare i say.... Incomplete
+- 💻 I recently joined @alxafrica on their one year software engineering course to help broaden my view of what SE really entails.
+- 🌱 I’m versed and have built projects in Html, Css, JS, React, bash scripting, ubuntu linux, C (project coming real soon)
+- 💞️ If you ever need an hardworking overachiever😅, please send an email. I'm an excellent "on the job" learner too.
+- 📫 How to reach me... Email is probably best. Here ifedolapo0001@gmail.com or twitter @ife_ifedolapo but I mostly only retweet lionel Messi prop⚽.
 
 <!---
 ifedolapoomoniyi/ifedolapoomoniyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
